@@ -1,0 +1,217 @@
+"skill_shot_type_indirect_pass" = "INDIREKT";
+"skill_shot_type_indirect_pass_d" = "DER BLANKE SHNIP STEHT BEIM DURCHSCHUSS STILL";
+
+"skill_shot_type_just_passed" = "KNAPP";
+"skill_shot_type_just_passed_d" = "DER BLANKE SHNIP SCHIESST GANZ KNAPP DURCH";
+
+"skill_shot_type_narrow_gap" = "PRÄZISE";
+"skill_shot_type_narrow_gap_d" = "SCHIESSE DURCH EINE ENGE GASSE";
+
+"skill_shot_type_three_cushion_hit" = "ABLENKUNG";
+"skill_shot_type_three_cushion_hit_d" = "3 BANDENTREFFER VOR DEM DURCHSCHUSS";
+
+"skill_shot_type_four_passes" = "ERBARMUNGSLOS";
+"skill_shot_type_four_passes_d" = "4 DURCHSCHÜSSE MIT EINEM SCHUSS";
+
+"skill_shot_type_chips_close" = "EXPLOSIV";
+"skill_shot_type_chips_close_d" = "DURCHSCHUSS WENN ALLE SHNIPS ENG BEIEINANDER SIND";
+
+"skill_shot_type_two_passes_no_cushion" = "WAHNSINN";
+"skill_shot_type_two_passes_no_cushion_d" = "2 DURSCHÜSSE MIT EINEM SCHUSS OHNE BANDE";
+
+"skill_shot_type_circumvent_chip" = "RUND & RUND";
+"skill_shot_type_circumvent_chip_d" = "UMRUNDE EINEN SHNIP";
+
+"skill_shot_type_hit_chips_before_pass" = "RUMPLER";
+"skill_shot_type_hit_chips_before_pass_d" = "PRALLE VON BEIDEN SHNIPS VOR DEM DURCHSCHUSS AB";
+
+
+"video_type_no_cushion_shot" = "SCHUSS OHNE BANDE";
+"video_type_no_cushion_shot_d" = "DURCHSCHUSS WOBEI DER BLANKE SHNIP KEINE BANDEN TRIFFT";
+
+"video_type_double_cushion_shot" = "2-BANDENSCHUSS";
+"video_type_double_cushion_shot_d" = "2 BANDENTREFFER VOR DEM DURCHSCHUSS";
+
+"video_type_double_pass" = "DOPPEL-DURCHSCHUSS";
+"video_type_double_pass_d" = "2 DURCHSCHÜSSE MIT EINEM SCHUSS";
+
+"video_type_triple_pass" = "DREIFACH-DURCHSCHUSS";
+"video_type_triple_pass_d" = "3 DURCHSCHÜSSE MIT EINEM SCHUSS";
+
+
+"goal_0" = "Erziele 3 erfolgreiche Schüsse";
+"goal_1" = "Erziele einen *Doppel-Durchschuss*";
+"goal_2" = "Erziele 2 erfolgreiche Bandenschüsse";
+"goal_3" = "Erziele 10 Punkte";
+"goal_4" = "Erziele 3 Punkte mit einem Schuss";
+"goal_5" = "Erziele einen *Schuss ohne Bande*";
+"goal_6" = "Erziele einen *2-Bandenschuss*";
+"goal_7" = "Erziele einen *Dreifach-Durchschuss*";
+"goal_8" = "Erziele 3 Bandenschüsse nacheinander";
+"goal_9" = "Erziele 2 *Schüsse ohne Bande*";
+"goal_10" = "Erziele 5 erfolgreiche Schüsse";
+"goal_11" = "Erziele 3 *Doppel-Durchschüsse*";
+"goal_12" = "Erziele den Skill-Schuss *Ablenkung*";
+"goal_13" = "Erziele 10 Punkte in 3 Schüssen";
+"goal_14" = "Erziele 75 Punkte";
+
+"goal_15" = "Erziele den Skill-Schuss *Indirekt*";
+"goal_16" = "Erziele 3 *2-Bandenschüsse*";
+"goal_17" = "Erziele 10 erfolgreiche Schüsse";
+"goal_18" = "Erziele 100 Punkte";
+"goal_19" = "Erziele den Skill-Schuss *Präzise*";
+"goal_20" = "Erziele den Skill-Schuss *Erbarmungslos*";
+"goal_21" = "Erziele 10 Schüsse in jeweils unter 3 Sekunden nacheinander";
+"goal_22" = "Erziele 5 *Doppel-Durchschüsse* nacheinander";
+"goal_23" = "Erziele 4 *Schüsse ohne Bande*";
+"goal_24" = "Erziele 5 Durchschüsse mit einem Schuss mit Speedy";
+"goal_25" = "Erziele den Skill-Schuss *Knapp*";
+"goal_26" = "Erziele einen Vier-Bandenschuss";
+"goal_27" = "Erziele 10 Punkte mit einem Schuss";
+"goal_28" = "Erziele 20 erfolgreiche Schüsse";
+"goal_29" = "Erziele 150 Punkte";
+
+"goal_30" = "Erziele den Skill-Schuss *Rund & Rund*";
+"goal_31" = "Erziele 10 Schüsse in jeweils unter 2 Sekunden nacheinander";
+"goal_32" = "Erziele 3 unterschiedliche Skill-Schüsse";
+"goal_33" = "Lade die Ships 3 mal in einem Spiel auf";
+"goal_34" = "Erziele 4 *Schüsse ohne Bande* nacheinander";
+"goal_35" = "Erziele 30 erfolgreiche Schüsse";
+"goal_36" = "Erziele 5 *Dreifach-Durchschüsse*";
+"goal_37" = "Erziele 50 Punkte in 10 Schüssen";
+"goal_38" = "Erziele den Skill-Schuss *Rumpler*";
+"goal_39" = "Erziele 2 Skill-Schüsse mit einem Schuss";
+"goal_40" = "Erziele 5 Schüsse in jeweils unter 1 Sekunde nacheinander";
+"goal_41" = "Lade die Shnips in 5 Schüsse auf";
+"goal_42" = "Erziele 20 Bandenschüsse";
+"goal_43" = "Erziele 3 Skill-Schüsse nacheinander";
+"goal_44" = "Erziele 250 Punkte";
+
+"goal_45" = "Lade die Shnips 5 mal in einem Spiel auf";
+"goal_46" = "Erziele 10 Skill-Schüsse";
+"goal_47" = "Erziele 10 Schüsse in jeweils unter 1 Sekunde nacheinander";
+"goal_48" = "Tausche zwei Shnips mit Swapper";
+"goal_49" = "Erziele den Skill-Schuss *Wahnsinn*";
+"goal_50" = "Erziele 5 Schüsse mit dem gleichen Shnip nacheinander";
+"goal_51" = "Erziele 7 *Schüsse ohne Bande* nacheinander";
+"goal_52" = "Erziele 5 *Dreifach-Durchschüsse* nacheinander";
+"goal_53" = "Erziele 10 3-Bandenschüsse";
+"goal_54" = "Erziele 5 unterschiedliche Skill-Schüsse";
+"goal_55" = "Erziele 50 erfolgreiche Schüsse";
+"goal_56" = "Erziele 60 Punkte in 10 Schüssen";
+"goal_57" = "Lade die Shnips in 3 Schüssen auf";
+"goal_58" = "Erziele den Skill-Schuss *Ablenkung* 3 mal nacheinander";
+"goal_59" = "Erziele 400 Punkte";
+
+"goal_60" = "Erziele 3 Durchschüsse mit einem Schuss ohne Bande";
+"goal_61" = "Erziele einen 1-, 2-, 3- und dann 4-Bandenschuss nacheinander";
+"goal_62" = "Erziele 6 Durchschüsse mit einem Schuss";
+"goal_63" = "Erziele einen Fünf-Bandenschuss";
+"goal_64" = "Erziele 75 Punkte in den ersten 10 Schüssen";
+"goal_65" = "Erziele 10 *Schüsse ohne Bande* nacheinander";
+"goal_66" = "Erziele 500 Punkte";
+"goal_67" = "Erziele 4 Vierfach-Durchschüsse nacheinander";
+"goal_68" = "Erziele den Skill-Schuss *Indirekt* 2 mal nacheinander";
+"goal_69" = "Erziele 10 Schüsse mit dem gleichen Shnip nacheinander";
+"goal_70" = "Erziele einen 1-, 2-, 3- und dann 4-fach-Durchschuss nacheinander";
+"goal_71" = "Erziele 7 unterschiedliche Skill-Schüsse";
+"goal_72" = "Erziele 4 Durchschüsse mit einem Schuss ohne Bande";
+"goal_73" = "Erziele 75 erfolgreiche Schüsse in einem Spiel mit Buck";
+"goal_74" = "Erziele 750 Punkte";
+
+
+"chip_ability_0" = "1  %_";
+"chip_ability_1" = "2  %_";
+"chip_ability_2" = "3  %_";
+
+"chip_type_default" = "Buck";
+"chip_type_default_0" = "HAT KEINE SPEZIAL-POWER";
+"chip_type_default_2" = "BEENDE ZIELE UND SPIELE NEUE SHNIPS FREI";
+
+"chip_type_fast" = "Speedy";
+"chip_type_fast_0" = "WIRD SCHNELLER WENN AUFGELADEN";
+"chip_type_fast_1" = "LÄDT SCHNELLER AUF";
+"chip_type_fast_2" = "WIRD NOCH SCHNELLER";
+
+"chip_type_extra_points" = "Boost";
+"chip_type_extra_points_0" = "GIBT 1 PUNKT MEHR PRO DURCHSCHUSS";
+"chip_type_extra_points_1" = "LÄDT SCHNELLER AUF";
+"chip_type_extra_points_2" = "GIBT DOPPELTE PUNKTE";
+
+"chip_type_swap" = "Swapper";
+"chip_type_swap_0" = "ERMÖGLICHT ES, SHNIPS ZU TAUSCHEN";
+"chip_type_swap_1" = "LÄDT SCHNELLER AUF";
+"chip_type_swap_2" = "BLEIBT LÄNGER AUFGELADEN";
+
+"chip_type_extra_chip" = "Clone";
+"chip_type_extra_chip_0" = "GIBT 1 EXTRA SHNIP FÜR EINEN SCHUSS";
+"chip_type_extra_chip_1" = "LÄDT SCHNELLER AUF";
+"chip_type_extra_chip_2" = "GIBT 2 EXTRA SHNIPS FÜR EINEN SCHUSS";
+
+
+"tutorial_type_simple_shot" = "SCHNIPSE EINEN SHNIP,";
+"tutorial_type_simple_shot_d" = "SODASS ER DURCH DIE ANDEREN BEIDEN SCHIESST.";
+"tutorial_type_simple_shot_a" = "GUT GEMACHT.\nJEDER DURCHSCHUSS GIBT 1 PUNKT.";
+
+"tutorial_type_consecutive_shot" = "SCHNIPSE WEITER,";
+"tutorial_type_consecutive_shot_d" = "ABER NICHT DEN BLANKEN SHNIP.";
+"tutorial_type_consecutive_shot_a" = "SWEET.\nJETZT EIN PAAR HEIKELE SCHÜSSE.";
+
+"tutorial_type_cushion_shot" = "SCHNIPSE GEGEN BANDEN,";
+"tutorial_type_cushion_shot_d" = "UM AUS HEIKELEN SITUATIONEN ZU KOMMEN.";
+"tutorial_type_cushion_shot_a" = "JEDE GETROFFENE BANDE VOR DEM DURCHSCHUSS GIBT 1 EXTRA PUNKT.";
+
+"tutorial_type_corner_shot" = "SCHNIPSE GEGEN DIE ECKE,";
+"tutorial_type_corner_shot_d" = "UM DAVON WEG ZU KOMMEN.";
+"tutorial_type_corner_shot_a" = "SAUBER.\nJETZT ERZIELE EINEN HIGHSCORE.";
+
+
+"intro_type_charging" = "LADE DIE SHNIPS AUF, UM IHRE FÄHIGKEIT ZU AKTIVIEREN.";
+"intro_type_swap" = "BERÜHRE EINEN SHNIP, UM IHN MIT DEM BLANKEN ZU TAUSCHEN.";
+
+
+"notification_type_goals_left" = "Beende %_ Ziele, um %_ frei zu schalten";
+"notification_type_goal" = "Beende 1 Ziel, um %_ frei zu schalten";
+"notification_type_highscore" = "Knacke deinen %_ Punkte Highscore";
+
+
+"score" = "PUNKTESTAND";
+"highscore" = "HIGHSCORE";
+"new_highscore" = "NEUER HIGHSCORE";
+"goals_progress" = "%_/%_ ZIELE";
+"progress" = "%_/%_";
+"goals" = "ZIELE";
+"supercharger" = "SUPERCHARGER";
+"three_lives" = "3 LEBEN";
+
+"upgraded" = "%_ AUFGERÜSTET";
+"unlocked" = "%_ FREIGESPIELT";
+"goals_unlocked" = "ZIELE FREIGESCHALTET";
+"goal_completed" = "ZIEL ERREICHT";
+
+"twitter" = "FOLGE SHNIPS AUF TWITTER";
+
+"enjoying_shnips" = "GEFÄLLT DIR SHNIPS?";
+"rate_us" = "BEWERTE UNS";
+"ok" = "OK";
+"restore_purchases" = "KÄUFE WIEDERHERSTELLEN";
+"get" = "LADEN";
+
+"leaderboard_all_time_info" = "BESTENLISTEN-RANG";
+"leaderboard_week_info" = "WOCHE";
+"leaderboard_today_info" = "HEUTE";
+"achievements_info" = "ERFOLGE";
+
+"heart_info" = "ERHALTE 3 LEBEN PRO SPIEL";
+"supercharger_info" = "LADE DIE SHNIPS EINMAL PRO SPIEL VOLL AUF";
+"blank_chip_info" = "NICHT DEN BLANKEN SHNIP SCHNIPSEN";
+"charging_info" = "PUNKTE, UM DIE LEISTE AUF ZU LADEN";
+"leaderboard_info" = "MELDE DICH AN, UM DIE BESTENLISTE ZU SEHEN";
+"goals_info" = "BEENDE EIN PAAR ZIELE";
+
+"share_score" = "Ich habe %_ Punkte mit %_ in Shnips erzielt!\nhttps://itunes.apple.com/app/id1154187411";
+"share_highscore" = "Versuche, meinen %_ Punkte Highscore in Shnips zu knacken!\nhttps://itunes.apple.com/app/id1154187411";
+
+"purchase_cancelled" = "Kauf abgebrochen";
+"cannot_make_payments" = "Du kannst leider keine Zahlungen machen";
+"cannot_connect" = "Verbindung mit App Store nicht möglich";

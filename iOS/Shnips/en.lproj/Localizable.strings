@@ -1,0 +1,217 @@
+"skill_shot_type_indirect_pass" = "INDIRECT";
+"skill_shot_type_indirect_pass_d" = "THE BLANK SHNIP IS STEADY WHEN A PASS OCCURS";
+
+"skill_shot_type_just_passed" = "JUST";
+"skill_shot_type_just_passed_d" = "THE BLANK SHNIP PASSED JUST ABOUT";
+
+"skill_shot_type_narrow_gap" = "PRECISELY";
+"skill_shot_type_narrow_gap_d" = "PASS THROUGH A NARROW GAP";
+
+"skill_shot_type_three_cushion_hit" = "DEFLECTION";
+"skill_shot_type_three_cushion_hit_d" = "3 CUSHION HITS BEFORE A PASS";
+
+"skill_shot_type_four_passes" = "RELENTLESS";
+"skill_shot_type_four_passes_d" = "4 PASSES WITH ONE SHOT";
+
+"skill_shot_type_chips_close" = "EXPLOSIVE";
+"skill_shot_type_chips_close_d" = "A SUCCESSFUL SHOT WHEN THE SHNIPS ARE CLUSTERED";
+
+"skill_shot_type_two_passes_no_cushion" = "INSANITY";
+"skill_shot_type_two_passes_no_cushion_d" = "MAKE 2 PASSES WITH A NO-CUSHION SHOT";
+
+"skill_shot_type_circumvent_chip" = "ROUND & ROUND";
+"skill_shot_type_circumvent_chip_d" = "CIRCUMVENT A SHNIP";
+
+"skill_shot_type_hit_chips_before_pass" = "RUMBLER";
+"skill_shot_type_hit_chips_before_pass_d" = "BOUNCE OFF BOTH SHNIPS BEFORE A PASS";
+
+
+"video_type_no_cushion_shot" = "NO-CUSHION SHOT";
+"video_type_no_cushion_shot_d" = "A PASS WHERE THE BLANK SHNIP AVOIDS CUSHIONS";
+
+"video_type_double_cushion_shot" = "DOUBLE-CUSHION SHOT";
+"video_type_double_cushion_shot_d" = "2 CUSHION HITS BEFORE A PASS";
+
+"video_type_double_pass" = "DOUBLE-PASS SHOT";
+"video_type_double_pass_d" = "2 PASSES WITH ONE SHOT";
+
+"video_type_triple_pass" = "TRIPLE-PASS SHOT";
+"video_type_triple_pass_d" = "3 PASSES WITH ONE SHOT";
+
+
+"goal_0" = "Make 3 successful shots";
+"goal_1" = "Make a *double-pass shot*";
+"goal_2" = "Make 2 successful cushion shots";
+"goal_3" = "Score 10 points";
+"goal_4" = "Score 3 points in one shot";
+"goal_5" = "Make a successful *no-cushion shot*";
+"goal_6" = "Make a successful *double-cushion shot*";
+"goal_7" = "Make a *triple-pass shot*";
+"goal_8" = "Make 3 consecutive cushion shots";
+"goal_9" = "Make 2 successful *no-cushion shots*";
+"goal_10" = "Make 5 successful shots";
+"goal_11" = "Make 3 *double-pass shots*";
+"goal_12" = "Get a *Deflection* skill shot";
+"goal_13" = "Score 10 points in 3 shots";
+"goal_14" = "Score 75 points";
+
+"goal_15" = "Get an *Indirect* skill shot";
+"goal_16" = "Make 3 *double-cushion shots*";
+"goal_17" = "Make 10 successful shots";
+"goal_18" = "Score 100 points";
+"goal_19" = "Get a *Precisely* skill shot";
+"goal_20" = "Get a *Relentless* skill shot";
+"goal_21" = "Make 10 consecutive shots within 3 seconds each";
+"goal_22" = "Make 5 consecutive *double-pass shots*";
+"goal_23" = "Make 4 *no-cushion shots*";
+"goal_24" = "Make 5 passes in one shot with Speedy";
+"goal_25" = "Get a *Just* skill shot";
+"goal_26" = "Make a four-cushion shot";
+"goal_27" = "Score 10 points in one shot";
+"goal_28" = "Make 20 successful shots";
+"goal_29" = "Score 150 points";
+
+"goal_30" = "Get a *Round & Round* skill shot";
+"goal_31" = "Make 10 consecutive shots within 2 seconds each";
+"goal_32" = "Get 3 different skill shots";
+"goal_33" = "Charge up the shnips 3 times";
+"goal_34" = "Make 4 consecutive *no-cushion shots*";
+"goal_35" = "Make 30 successful shots";
+"goal_36" = "Make 5 *triple-pass shots*";
+"goal_37" = "Score 50 points in 10 shots";
+"goal_38" = "Get a *Rumbler* skill shot";
+"goal_39" = "Get 2 skill shots with one shot";
+"goal_40" = "Make 5 consecutive shots within 1 second each";
+"goal_41" = "Charge up the shnips within 5 shots";
+"goal_42" = "Make 20 cushion shots";
+"goal_43" = "Make 3 consecutive skill shots";
+"goal_44" = "Score 250 points";
+
+"goal_45" = "Charge up the shnips 5 times";
+"goal_46" = "Get 10 skill shots";
+"goal_47" = "Make 10 consecutive shots within 1 second each";
+"goal_48" = "Swap two shnips using Swapper";
+"goal_49" = "Get an *Insanity* skill shot";
+"goal_50" = "Make 5 consecutive shots with the same shnip";
+"goal_51" = "Make 7 consecutive *no-cushion shots*";
+"goal_52" = "Make 5 consecutive *triple-pass shots*";
+"goal_53" = "Make 10 triple-cushion shots";
+"goal_54" = "Get 5 different skill shots";
+"goal_55" = "Make 50 successful shots";
+"goal_56" = "Score 60 points in 10 shots";
+"goal_57" = "Charge up the shnips within 3 shots";
+"goal_58" = "Make 3 consecutive *Deflection* skill shots";
+"goal_59" = "Score 400 points";
+
+"goal_60" = "Make 3 passes with a no-cushion shot";
+"goal_61" = "Make a single, double, triple, and then four-cushion shot in a row";
+"goal_62" = "Get 6 passes in one shot";
+"goal_63" = "Make a five-cushion shot";
+"goal_64" = "Score 75 points in 10 shots";
+"goal_65" = "Make 10 consecutive *no-cushion shots*";
+"goal_66" = "Score 500 points";
+"goal_67" = "Make 4 consecutive four-pass shots";
+"goal_68" = "Make 2 consecutive *Indirect* skill shots";
+"goal_69" = "Make 10 consecutive shots with the same shnip";
+"goal_70" = "Make a single, double, triple, and then four-pass shot in a row";
+"goal_71" = "Get 7 different skill shots";
+"goal_72" = "Make 4 passes with a no-cushion shot";
+"goal_73" = "Make 75 successful shots using buck";
+"goal_74" = "Score 750 points";
+
+
+"chip_ability_0" = "1  %_";
+"chip_ability_1" = "2  %_";
+"chip_ability_2" = "3  %_";
+
+"chip_type_default" = "Buck";
+"chip_type_default_0" = "HAS NO SPECIAL POWER";
+"chip_type_default_2" = "COMPLETE GOALS TO UNLOCK NEW SHNIPS";
+
+"chip_type_fast" = "Speedy";
+"chip_type_fast_0" = "MOVES FASTER WHEN CHARGED UP";
+"chip_type_fast_1" = "CHARGES UP FASTER";
+"chip_type_fast_2" = "MOVES EVEN FASTER";
+
+"chip_type_extra_points" = "Boost";
+"chip_type_extra_points_0" = "GIVES 1 EXTRA POINT PER PASS";
+"chip_type_extra_points_1" = "CHARGES UP FASTER";
+"chip_type_extra_points_2" = "GIVES DOUBLE POINTS";
+
+"chip_type_swap" = "Swapper";
+"chip_type_swap_0" = "ALLOWS TO SWAP SHNIPS";
+"chip_type_swap_1" = "CHARGES UP FASTER";
+"chip_type_swap_2" = "STAYS CHARGED UP LONGER";
+
+"chip_type_extra_chip" = "Clone";
+"chip_type_extra_chip_0" = "GIVES 1 EXTRA SHNIP FOR ONE SHOT";
+"chip_type_extra_chip_1" = "CHARGES UP FASTER";
+"chip_type_extra_chip_2" = "GIVES 2 EXTRA SHNIPS FOR ONE SHOT";
+
+
+"tutorial_type_simple_shot" = "FLICK A SHNIP";
+"tutorial_type_simple_shot_d" = "SO IT PASSES IN-BETWEEN THE OTHER TWO.";
+"tutorial_type_simple_shot_a" = "WELL DONE.\nA PASS GIVES 1 POINT.";
+
+"tutorial_type_consecutive_shot" = "FLICK ANOTHER SHNIP";
+"tutorial_type_consecutive_shot_d" = "BUT NOT THE BLANK ONE.";
+"tutorial_type_consecutive_shot_a" = "SWEET.\nNOW SOME TRICKY SHOTS.";
+
+"tutorial_type_cushion_shot" = "SHOOT AGAINST A CUSHION";
+"tutorial_type_cushion_shot_d" = "TO GET OUT OF TRICKY SITUATIONS.";
+"tutorial_type_cushion_shot_a" = "EACH CUSHION-HIT BEFORE A PASS GIVES 1 EXTRA POINT.";
+
+"tutorial_type_corner_shot" = "WHEN CLOSE TO CORNERS";
+"tutorial_type_corner_shot_d" = "JUST SHOOT AGAINST THEM.";
+"tutorial_type_corner_shot_a" = "NICE.\nNOW SET A HIGHSCORE.";
+
+
+"intro_type_charging" = "CHARGE UP SHNIPS TO ACTIVATE THEIR ABILITY.";
+"intro_type_swap" = "TAP ON A SHNIP TO SWAP IT WITH THE BLANK ONE.";
+
+
+"notification_type_goals_left" = "%_ goals left to unlock %_";
+"notification_type_goal" = "1 goal left to unlock %_";
+"notification_type_highscore" = "Beat your %_ points highscore";
+
+
+"score" = "SCORE";
+"highscore" = "HIGHSCORE";
+"new_highscore" = "NEW HIGHSCORE";
+"goals_progress" = "%_/%_ GOALS";
+"progress" = "%_/%_";
+"goals" = "GOALS";
+"supercharger" = "SUPERCHARGER";
+"three_lives" = "3 LIVES";
+
+"upgraded" = "%_ UPGRADED";
+"unlocked" = "%_ UNLOCKED";
+"goals_unlocked" = "GOALS UNLOCKED";
+"goal_completed" = "GOAL COMPLETED";
+
+"twitter" = "FOLLOW SHNIPS ON TWITTER";
+
+"enjoying_shnips" = "ENJOYING SHNIPS?";
+"rate_us" = "RATE US";
+"ok" = "OK";
+"restore_purchases" = "RESTORE PURCHASES";
+"get" = "GET";
+
+"leaderboard_all_time_info" = "LEADERBOARD RANK";
+"leaderboard_week_info" = "WEEK";
+"leaderboard_today_info" = "TODAY";
+"achievements_info" = "ACHIEVEMENTS";
+
+"heart_info" = "GET 3 LIVES PER GAME";
+"supercharger_info" = "SUPERCHARGE THE SHNIPS ONCE PER GAME";
+"blank_chip_info" = "YOU CAN'T HIT THE BLANK SHNIP";
+"charging_info" = "SCORE POINTS TO CHARGE THE BAR";
+"leaderboard_info" = "SIGN IN TO VIEW THE LEADERBOARD";
+"goals_info" = "BEAT SOME GOALS";
+
+"share_score" = "I scored %_ points with %_ in Shnips!\nhttps://itunes.apple.com/app/id1154187411";
+"share_highscore" = "Try to beat my %_ points highscore in Shnips!\nhttps://itunes.apple.com/app/id1154187411";
+
+"purchase_cancelled" = "Purchase Cancelled";
+"cannot_make_payments" = "It looks like you can't make payments";
+"cannot_connect" = "Cannot connect to App Store";
