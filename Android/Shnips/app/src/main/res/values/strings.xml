@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name" translatable="false">Shnips</string>
+    <string name="app_id" translatable="false">290878072133</string>
+    <string name="package_name" translatable="false">ch.techos.shnips2</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzs7iRdBHVxTzQ4EB2J6uPZYk-8v5SiV4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzs7iRdBHVxTzQ4EB2J6uPZYk-8v5SiV4</string>
+    <string name="google_app_id" translatable="false">1:494513826174:android:2cacf2bf9bd9eb49</string>
+
+    <string name="skill_shot_type_indirect_pass">INDIRECT</string>
+    <string name="skill_shot_type_indirect_pass_d">THE BLANK SHNIP IS STEADY WHEN A PASS OCCURS</string>
+
+    <string name="skill_shot_type_just_passed">JUST</string>
+    <string name="skill_shot_type_just_passed_d">THE BLANK SHNIP PASSED JUST ABOUT</string>
+
+    <string name="skill_shot_type_narrow_gap">PRECISELY</string>
+    <string name="skill_shot_type_narrow_gap_d">PASS THROUGH A NARROW GAP</string>
+
+    <string name="skill_shot_type_three_cushion_hit">DEFLECTION</string>
+    <string name="skill_shot_type_three_cushion_hit_d">3 CUSHION HITS BEFORE A PASS</string>
+
+    <string name="skill_shot_type_four_passes">RELENTLESS</string>
+    <string name="skill_shot_type_four_passes_d">4 PASSES WITH ONE SHOT</string>
+
+    <string name="skill_shot_type_chips_close">EXPLOSIVE</string>
+    <string name="skill_shot_type_chips_close_d">A SUCCESSFUL SHOT WHEN THE SHNIPS ARE CLUSTERED</string>
+
+    <string name="skill_shot_type_two_passes_no_cushion">INSANITY</string>
+    <string name="skill_shot_type_two_passes_no_cushion_d">MAKE 2 PASSES WITH A NO-CUSHION SHOT</string>
+
+    <string name="skill_shot_type_circumvent_chip">ROUND &amp; ROUND</string>
+    <string name="skill_shot_type_circumvent_chip_d">CIRCUMVENT A SHNIP</string>
+
+    <string name="skill_shot_type_hit_chips_before_pass">RUMBLER</string>
+    <string name="skill_shot_type_hit_chips_before_pass_d">BOUNCE OFF BOTH SHNIPS BEFORE A PASS</string>
+
+
+    <string name="video_type_no_cushion_shot">NO-CUSHION SHOT</string>
+    <string name="video_type_no_cushion_shot_d">A PASS WHERE THE BLANK SHNIP AVOIDS CUSHIONS</string>
+
+    <string name="video_type_double_cushion_shot">DOUBLE-CUSHION SHOT</string>
+    <string name="video_type_double_cushion_shot_d">2 CUSHION HITS BEFORE A PASS</string>
+
+    <string name="video_type_double_pass">DOUBLE-PASS SHOT</string>
+    <string name="video_type_double_pass_d">2 PASSES WITH ONE SHOT</string>
+
+    <string name="video_type_triple_pass">TRIPLE-PASS SHOT</string>
+    <string name="video_type_triple_pass_d">3 PASSES WITH ONE SHOT</string>
+
+
+    <string name="goal_0">Make 3 successful shots</string>
+    <string name="goal_1">Make a *double-pass shot*</string>
+    <string name="goal_2">Make 2 successful cushion shots</string>
+    <string name="goal_3">Score 10 points</string>
+    <string name="goal_4">Score 3 points in one shot</string>
+    <string name="goal_5">Make a successful *no-cushion shot*</string>
+    <string name="goal_6">Make a successful *double-cushion shot*</string>
+    <string name="goal_7">Make a *triple-pass shot*</string>
+    <string name="goal_8">Make 3 consecutive cushion shots</string>
+    <string name="goal_9">Make 2 successful *no-cushion shots*</string>
+    <string name="goal_10">Make 5 successful shots</string>
+    <string name="goal_11">Make 3 *double-pass shots*</string>
+    <string name="goal_12">Get a *Deflection* skill shot</string>
+    <string name="goal_13">Score 10 points in 3 shots</string>
+    <string name="goal_14">Score 75 points</string>
+
+    <string name="goal_15">Get an *Indirect* skill shot</string>
+    <string name="goal_16">Make 3 *double-cushion shots*</string>
+    <string name="goal_17">Make 10 successful shots</string>
+    <string name="goal_18">Score 100 points</string>
+    <string name="goal_19">Get a *Precisely* skill shot</string>
+    <string name="goal_20">Get a *Relentless* skill shot</string>
+    <string name="goal_21">Make 10 consecutive shots within 3 seconds each</string>
+    <string name="goal_22">Make 5 consecutive *double-pass shots*</string>
+    <string name="goal_23">Make 4 *no-cushion shots*</string>
+    <string name="goal_24">Make 5 passes in one shot with Speedy</string>
+    <string name="goal_25">Get a *Just* skill shot</string>
+    <string name="goal_26">Make a four-cushion shot</string>
+    <string name="goal_27">Score 10 points in one shot</string>
+    <string name="goal_28">Make 20 successful shots</string>
+    <string name="goal_29">Score 150 points</string>
+
+    <string name="goal_30">Get a *Round &amp; Round* skill shot</string>
+    <string name="goal_31">Make 10 consecutive shots within 2 seconds each</string>
+    <string name="goal_32">Get 3 different skill shots</string>
+    <string name="goal_33">Charge up the shnips 3 times</string>
+    <string name="goal_34">Make 4 consecutive *no-cushion shots*</string>
+    <string name="goal_35">Make 30 successful shots</string>
+    <string name="goal_36">Make 5 *triple-pass shots*</string>
+    <string name="goal_37">Score 50 points in 10 shots</string>
+    <string name="goal_38">Get a *Rumbler* skill shot</string>
+    <string name="goal_39">Get 2 skill shots with one shot</string>
+    <string name="goal_40">Make 5 consecutive shots within 1 second each</string>
+    <string name="goal_41">Charge up the shnips within 5 shots</string>
+    <string name="goal_42">Make 20 cushion shots</string>
+    <string name="goal_43">Make 3 consecutive skill shots</string>
+    <string name="goal_44">Score 250 points</string>
+
+    <string name="goal_45">Charge up the shnips 5 times</string>
+    <string name="goal_46">Get 10 skill shots</string>
+    <string name="goal_47">Make 10 consecutive shots within 1 second each</string>
+    <string name="goal_48">Swap two shnips using Swapper</string>
+    <string name="goal_49">Get an *Insanity* skill shot</string>
+    <string name="goal_50">Make 5 consecutive shots with the same shnip</string>
+    <string name="goal_51">Make 7 consecutive *no-cushion shots*</string>
+    <string name="goal_52">Make 5 consecutive *triple-pass shots*</string>
+    <string name="goal_53">Make 10 triple-cushion shots</string>
+    <string name="goal_54">Get 5 different skill shots</string>
+    <string name="goal_55">Make 50 successful shots</string>
+    <string name="goal_56">Score 60 points in 10 shots</string>
+    <string name="goal_57">Charge up the shnips within 3 shots</string>
+    <string name="goal_58">Make 3 consecutive *Deflection* skill shots</string>
+    <string name="goal_59">Score 400 points</string>
+
+    <string name="goal_60">Make 3 passes with a no-cushion shot</string>
+    <string name="goal_61">Make a single, double, triple, and then four-cushion shot in a row</string>
+    <string name="goal_62">Get 6 passes in one shot</string>
+    <string name="goal_63">Make a five-cushion shot</string>
+    <string name="goal_64">Score 75 points in 10 shots</string>
+    <string name="goal_65">Make 10 consecutive *no-cushion shots*</string>
+    <string name="goal_66">Score 500 points</string>
+    <string name="goal_67">Make 4 consecutive four-pass shots</string>
+    <string name="goal_68">Make 2 consecutive *Indirect* skill shots</string>
+    <string name="goal_69">Make 10 consecutive shots with the same shnip</string>
+    <string name="goal_70">Make a single, double, triple, and then four-pass shot in a row</string>
+    <string name="goal_71">Get 7 different skill shots</string>
+    <string name="goal_72">Make 4 passes with a no-cushion shot</string>
+    <string name="goal_73">Make 75 successful shots using buck</string>
+    <string name="goal_74">Score 750 points</string>
+
+
+    <string name="chip_ability_0">1  %_</string>
+    <string name="chip_ability_1">2  %_</string>
+    <string name="chip_ability_2">3  %_</string>
+
+    <string name="chip_type_default">Buck</string>
+    <string name="chip_type_default_0">HAS NO SPECIAL POWER</string>
+    <string name="chip_type_default_2">COMPLETE GOALS TO UNLOCK NEW SHNIPS</string>
+
+    <string name="chip_type_fast">Speedy</string>
+    <string name="chip_type_fast_0">MOVES FASTER WHEN CHARGED UP</string>
+    <string name="chip_type_fast_1">CHARGES UP FASTER</string>
+    <string name="chip_type_fast_2">MOVES EVEN FASTER</string>
+
+    <string name="chip_type_extra_points">Boost</string>
+    <string name="chip_type_extra_points_0">GIVES 1 EXTRA POINT PER PASS</string>
+    <string name="chip_type_extra_points_1">CHARGES UP FASTER</string>
+    <string name="chip_type_extra_points_2">GIVES DOUBLE POINTS</string>
+
+    <string name="chip_type_swap">Swapper</string>
+    <string name="chip_type_swap_0">ALLOWS TO SWAP SHNIPS</string>
+    <string name="chip_type_swap_1">CHARGES UP FASTER</string>
+    <string name="chip_type_swap_2">STAYS CHARGED UP LONGER</string>
+
+    <string name="chip_type_extra_chip">Clone</string>
+    <string name="chip_type_extra_chip_0">GIVES 1 EXTRA SHNIP FOR ONE SHOT</string>
+    <string name="chip_type_extra_chip_1">CHARGES UP FASTER</string>
+    <string name="chip_type_extra_chip_2">GIVES 2 EXTRA SHNIPS FOR ONE SHOT</string>
+
+
+    <string name="tutorial_type_simple_shot">FLICK A SHNIP</string>
+    <string name="tutorial_type_simple_shot_d">SO IT PASSES IN-BETWEEN THE OTHER TWO.</string>
+    <string name="tutorial_type_simple_shot_a">WELL DONE.\nA PASS GIVES 1 POINT.</string>
+
+    <string name="tutorial_type_consecutive_shot">FLICK ANOTHER SHNIP</string>
+    <string name="tutorial_type_consecutive_shot_d">BUT NOT THE BLANK ONE.</string>
+    <string name="tutorial_type_consecutive_shot_a">SWEET.\nNOW SOME TRICKY SHOTS.</string>
+
+    <string name="tutorial_type_cushion_shot">SHOOT AGAINST A CUSHION</string>
+    <string name="tutorial_type_cushion_shot_d">TO GET OUT OF TRICKY SITUATIONS.</string>
+    <string name="tutorial_type_cushion_shot_a">EACH CUSHION-HIT BEFORE A PASS GIVES 1 EXTRA POINT.</string>
+
+    <string name="tutorial_type_corner_shot">WHEN CLOSE TO CORNERS</string>
+    <string name="tutorial_type_corner_shot_d">JUST SHOOT AGAINST THEM.</string>
+    <string name="tutorial_type_corner_shot_a">NICE.\nNOW SET A HIGHSCORE.</string>
+
+
+    <string name="intro_type_charging">CHARGE UP SHNIPS TO ACTIVATE THEIR ABILITY.</string>
+    <string name="intro_type_swap">TAP ON A SHNIP TO SWAP IT WITH THE BLANK ONE.</string>
+
+
+    <string name="notification_type_goals_left">%_ goals left to unlock %_</string>
+    <string name="notification_type_goal">1 goal left to unlock %_</string>
+    <string name="notification_type_highscore">Beat your %_ points highscore</string>
+
+
+    <string name="score">SCORE</string>
+    <string name="highscore">HIGHSCORE</string>
+    <string name="new_highscore">NEW HIGHSCORE</string>
+    <string name="goals_progress">%_/%_ GOALS</string>
+    <string name="progress">%_/%_</string>
+    <string name="goals">GOALS</string>
+    <string name="supercharger">SUPERCHARGER</string>
+    <string name="three_lives">3 LIVES</string>
+
+    <string name="upgraded">%_ UPGRADED</string>
+    <string name="unlocked">%_ UNLOCKED</string>
+    <string name="goals_unlocked">GOALS UNLOCKED</string>
+    <string name="goal_completed">GOAL COMPLETED</string>
+
+    <string name="twitter">FOLLOW SHNIPS ON TWITTER</string>
+
+    <string name="enjoying_shnips">ENJOYING SHNIPS?</string>
+    <string name="rate_us">RATE US</string>
+    <string name="ok">OK</string>
+    <string name="restore_purchases">RESTORE PURCHASES</string>
+    <string name="get">GET</string>
+
+    <string name="leaderboard_all_time_info">LEADERBOARD RANK</string>
+    <string name="leaderboard_week_info">WEEK</string>
+    <string name="leaderboard_today_info">TODAY</string>
+    <string name="achievements_info">ACHIEVEMENTS</string>
+
+    <string name="heart_info">GET 3 LIVES PER GAME</string>
+    <string name="supercharger_info">SUPERCHARGE THE SHNIPS ONCE PER GAME</string>
+    <string name="blank_chip_info">YOU CAN\'T HIT THE BLANK SHNIP</string>
+    <string name="charging_info">SCORE POINTS TO CHARGE THE BAR</string>
+    <string name="leaderboard_info">SIGN IN TO VIEW THE LEADERBOARD</string>
+    <string name="goals_info">BEAT SOME GOALS</string>
+
+    <string name="share_score">I scored %_ points with %_ in Shnips!\nhttps://play.google.com/store/apps/details?id=ch.techos.shnips2</string>
+    <string name="share_highscore">Try to beat my %_ points highscore in Shnips!\nhttps://play.google.com/store/apps/details?id=ch.techos.shnips2</string>
+
+    <string name="purchase_unavailable">Purchase Unavailable</string>
+    <string name="purchase_unavailable_d">Please try again later</string>
+    <string name="purchase_cancelled">Purchase Cancelled</string>
+    <string name="cannot_connect">Cannot connect to Google Play Store</string>
+
+    <string name="quit_app_alert">Bye...</string>
+    <string name="quit_app_alert_d">Do you want to leave Shnips?</string>
+    <string name="quit_app_alert_yes">Yes</string>
+    <string name="quit_app_alert_no">Nope</string>
+</resources>

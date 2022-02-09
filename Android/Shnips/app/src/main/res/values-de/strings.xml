@@ -1,0 +1,225 @@
+<resources>
+    <string name="skill_shot_type_indirect_pass">INDIREKT</string>
+    <string name="skill_shot_type_indirect_pass_d">DER BLANKE SHNIP STEHT BEIM DURCHSCHUSS STILL</string>
+
+    <string name="skill_shot_type_just_passed">KNAPP</string>
+    <string name="skill_shot_type_just_passed_d">DER BLANKE SHNIP SCHIESST GANZ KNAPP DURCH</string>
+
+    <string name="skill_shot_type_narrow_gap">PRÄZISE</string>
+    <string name="skill_shot_type_narrow_gap_d">SCHIESSE DURCH EINE ENGE GASSE</string>
+
+    <string name="skill_shot_type_three_cushion_hit">ABLENKUNG</string>
+    <string name="skill_shot_type_three_cushion_hit_d">3 BANDENTREFFER VOR DEM DURCHSCHUSS</string>
+
+    <string name="skill_shot_type_four_passes">ERBARMUNGSLOS</string>
+    <string name="skill_shot_type_four_passes_d">4 DURCHSCHÜSSE MIT EINEM SCHUSS</string>
+
+    <string name="skill_shot_type_chips_close">EXPLOSIV</string>
+    <string name="skill_shot_type_chips_close_d">DURCHSCHUSS WENN ALLE SHNIPS ENG BEIEINANDER SIND</string>
+
+    <string name="skill_shot_type_two_passes_no_cushion">WAHNSINN</string>
+    <string name="skill_shot_type_two_passes_no_cushion_d">2 DURSCHÜSSE MIT EINEM SCHUSS OHNE BANDE</string>
+
+    <string name="skill_shot_type_circumvent_chip">RUND &amp; RUND</string>
+    <string name="skill_shot_type_circumvent_chip_d">UMRUNDE EINEN SHNIP</string>
+
+    <string name="skill_shot_type_hit_chips_before_pass">RUMPLER</string>
+    <string name="skill_shot_type_hit_chips_before_pass_d">PRALLE VON BEIDEN SHNIPS VOR DEM DURCHSCHUSS AB</string>
+
+
+    <string name="video_type_no_cushion_shot">SCHUSS OHNE BANDE</string>
+    <string name="video_type_no_cushion_shot_d">DURCHSCHUSS WOBEI DER BLANKE SHNIP KEINE BANDEN TRIFFT</string>
+
+    <string name="video_type_double_cushion_shot">2-BANDENSCHUSS</string>
+    <string name="video_type_double_cushion_shot_d">2 BANDENTREFFER VOR DEM DURCHSCHUSS</string>
+
+    <string name="video_type_double_pass">DOPPEL-DURCHSCHUSS</string>
+    <string name="video_type_double_pass_d">2 DURCHSCHÜSSE MIT EINEM SCHUSS</string>
+
+    <string name="video_type_triple_pass">DREIFACH-DURCHSCHUSS</string>
+    <string name="video_type_triple_pass_d">3 DURCHSCHÜSSE MIT EINEM SCHUSS</string>
+
+
+    <string name="goal_0">Erziele 3 erfolgreiche Schüsse</string>
+    <string name="goal_1">Erziele einen *Doppel-Durchschuss*</string>
+    <string name="goal_2">Erziele 2 erfolgreiche Bandenschüsse</string>
+    <string name="goal_3">Erziele 10 Punkte</string>
+    <string name="goal_4">Erziele 3 Punkte mit einem Schuss</string>
+    <string name="goal_5">Erziele einen *Schuss ohne Bande*</string>
+    <string name="goal_6">Erziele einen *2-Bandenschuss*</string>
+    <string name="goal_7">Erziele einen *Dreifach-Durchschuss*</string>
+    <string name="goal_8">Erziele 3 Bandenschüsse nacheinander</string>
+    <string name="goal_9">Erziele 2 *Schüsse ohne Bande*</string>
+    <string name="goal_10">Erziele 5 erfolgreiche Schüsse</string>
+    <string name="goal_11">Erziele 3 *Doppel-Durchschüsse*</string>
+    <string name="goal_12">Erziele den Skill-Schuss *Ablenkung*</string>
+    <string name="goal_13">Erziele 10 Punkte in 3 Schüssen</string>
+    <string name="goal_14">Erziele 75 Punkte</string>
+
+    <string name="goal_15">Erziele den Skill-Schuss *Indirekt*</string>
+    <string name="goal_16">Erziele 3 *2-Bandenschüsse*</string>
+    <string name="goal_17">Erziele 10 erfolgreiche Schüsse</string>
+    <string name="goal_18">Erziele 100 Punkte</string>
+    <string name="goal_19">Erziele den Skill-Schuss *Präzise*</string>
+    <string name="goal_20">Erziele den Skill-Schuss *Erbarmungslos*</string>
+    <string name="goal_21">Erziele 10 Schüsse in jeweils unter 3 Sekunden nacheinander</string>
+    <string name="goal_22">Erziele 5 *Doppel-Durchschüsse* nacheinander</string>
+    <string name="goal_23">Erziele 4 *Schüsse ohne Bande*</string>
+    <string name="goal_24">Erziele 5 Durchschüsse mit einem Schuss mit Speedy</string>
+    <string name="goal_25">Erziele den Skill-Schuss *Knapp*</string>
+    <string name="goal_26">Erziele einen Vier-Bandenschuss</string>
+    <string name="goal_27">Erziele 10 Punkte mit einem Schuss</string>
+    <string name="goal_28">Erziele 20 erfolgreiche Schüsse</string>
+    <string name="goal_29">Erziele 150 Punkte</string>
+
+    <string name="goal_30">Erziele den Skill-Schuss *Rund &amp; Rund*</string>
+    <string name="goal_31">Erziele 10 Schüsse in jeweils unter 2 Sekunden nacheinander</string>
+    <string name="goal_32">Erziele 3 unterschiedliche Skill-Schüsse</string>
+    <string name="goal_33">Lade die Ships 3 mal in einem Spiel auf</string>
+    <string name="goal_34">Erziele 4 *Schüsse ohne Bande* nacheinander</string>
+    <string name="goal_35">Erziele 30 erfolgreiche Schüsse</string>
+    <string name="goal_36">Erziele 5 *Dreifach-Durchschüsse*</string>
+    <string name="goal_37">Erziele 50 Punkte in 10 Schüssen</string>
+    <string name="goal_38">Erziele den Skill-Schuss *Rumpler*</string>
+    <string name="goal_39">Erziele 2 Skill-Schüsse mit einem Schuss</string>
+    <string name="goal_40">Erziele 5 Schüsse in jeweils unter 1 Sekunde nacheinander</string>
+    <string name="goal_41">Lade die Shnips in 5 Schüsse auf</string>
+    <string name="goal_42">Erziele 20 Bandenschüsse</string>
+    <string name="goal_43">Erziele 3 Skill-Schüsse nacheinander</string>
+    <string name="goal_44">Erziele 250 Punkte</string>
+
+    <string name="goal_45">Lade die Shnips 5 mal in einem Spiel auf</string>
+    <string name="goal_46">Erziele 10 Skill-Schüsse</string>
+    <string name="goal_47">Erziele 10 Schüsse in jeweils unter 1 Sekunde nacheinander</string>
+    <string name="goal_48">Tausche zwei Shnips mit Swapper</string>
+    <string name="goal_49">Erziele den Skill-Schuss *Wahnsinn*</string>
+    <string name="goal_50">Erziele 5 Schüsse mit dem gleichen Shnip nacheinander</string>
+    <string name="goal_51">Erziele 7 *Schüsse ohne Bande* nacheinander</string>
+    <string name="goal_52">Erziele 5 *Dreifach-Durchschüsse* nacheinander</string>
+    <string name="goal_53">Erziele 10 3-Bandenschüsse</string>
+    <string name="goal_54">Erziele 5 unterschiedliche Skill-Schüsse</string>
+    <string name="goal_55">Erziele 50 erfolgreiche Schüsse</string>
+    <string name="goal_56">Erziele 60 Punkte in 10 Schüssen</string>
+    <string name="goal_57">Lade die Shnips in 3 Schüssen auf</string>
+    <string name="goal_58">Erziele den Skill-Schuss *Ablenkung* 3 mal nacheinander</string>
+    <string name="goal_59">Erziele 400 Punkte</string>
+
+    <string name="goal_60">Erziele 3 Durchschüsse mit einem Schuss ohne Bande</string>
+    <string name="goal_61">Erziele einen 1-, 2-, 3- und dann 4-Bandenschuss nacheinander</string>
+    <string name="goal_62">Erziele 6 Durchschüsse mit einem Schuss</string>
+    <string name="goal_63">Erziele einen Fünf-Bandenschuss</string>
+    <string name="goal_64">Erziele 75 Punkte in den ersten 10 Schüssen</string>
+    <string name="goal_65">Erziele 10 *Schüsse ohne Bande* nacheinander</string>
+    <string name="goal_66">Erziele 500 Punkte</string>
+    <string name="goal_67">Erziele 4 Vierfach-Durchschüsse nacheinander</string>
+    <string name="goal_68">Erziele den Skill-Schuss *Indirekt* 2 mal nacheinander</string>
+    <string name="goal_69">Erziele 10 Schüsse mit dem gleichen Shnip nacheinander</string>
+    <string name="goal_70">Erziele einen 1-, 2-, 3- und dann 4-fach-Durchschuss nacheinander</string>
+    <string name="goal_71">Erziele 7 unterschiedliche Skill-Schüsse</string>
+    <string name="goal_72">Erziele 4 Durchschüsse mit einem Schuss ohne Bande</string>
+    <string name="goal_73">Erziele 75 erfolgreiche Schüsse in einem Spiel mit Buck</string>
+    <string name="goal_74">Erziele 750 Punkte</string>
+
+
+    <string name="chip_ability_0">1  %_</string>
+    <string name="chip_ability_1">2  %_</string>
+    <string name="chip_ability_2">3  %_</string>
+
+    <string name="chip_type_default">Buck</string>
+    <string name="chip_type_default_0">HAT KEINE SPEZIAL-POWER</string>
+    <string name="chip_type_default_2">BEENDE ZIELE UND SPIELE NEUE SHNIPS FREI</string>
+
+    <string name="chip_type_fast">Speedy</string>
+    <string name="chip_type_fast_0">WIRD SCHNELLER WENN AUFGELADEN</string>
+    <string name="chip_type_fast_1">LÄDT SCHNELLER AUF</string>
+    <string name="chip_type_fast_2">WIRD NOCH SCHNELLER</string>
+
+    <string name="chip_type_extra_points">Boost</string>
+    <string name="chip_type_extra_points_0">GIBT 1 PUNKT MEHR PRO DURCHSCHUSS</string>
+    <string name="chip_type_extra_points_1">LÄDT SCHNELLER AUF</string>
+    <string name="chip_type_extra_points_2">GIBT DOPPELTE PUNKTE</string>
+
+    <string name="chip_type_swap">Swapper</string>
+    <string name="chip_type_swap_0">ERMÖGLICHT ES, SHNIPS ZU TAUSCHEN</string>
+    <string name="chip_type_swap_1">LÄDT SCHNELLER AUF</string>
+    <string name="chip_type_swap_2">BLEIBT LÄNGER AUFGELADEN</string>
+
+    <string name="chip_type_extra_chip">Clone</string>
+    <string name="chip_type_extra_chip_0">GIBT 1 EXTRA SHNIP FÜR EINEN SCHUSS</string>
+    <string name="chip_type_extra_chip_1">LÄDT SCHNELLER AUF</string>
+    <string name="chip_type_extra_chip_2">GIBT 2 EXTRA SHNIPS FÜR EINEN SCHUSS</string>
+
+
+    <string name="tutorial_type_simple_shot">SCHNIPSE EINEN SHNIP,</string>
+    <string name="tutorial_type_simple_shot_d">SODASS ER DURCH DIE ANDEREN BEIDEN SCHIESST.</string>
+    <string name="tutorial_type_simple_shot_a">GUT GEMACHT.\nJEDER DURCHSCHUSS GIBT 1 PUNKT.</string>
+
+    <string name="tutorial_type_consecutive_shot">SCHNIPSE WEITER,</string>
+    <string name="tutorial_type_consecutive_shot_d">ABER NICHT DEN BLANKEN SHNIP.</string>
+    <string name="tutorial_type_consecutive_shot_a">SWEET.\nJETZT EIN PAAR HEIKELE SCHÜSSE.</string>
+
+    <string name="tutorial_type_cushion_shot">SCHNIPSE GEGEN BANDEN,</string>
+    <string name="tutorial_type_cushion_shot_d">UM AUS HEIKELEN SITUATIONEN ZU KOMMEN.</string>
+    <string name="tutorial_type_cushion_shot_a">JEDE GETROFFENE BANDE VOR DEM DURCHSCHUSS GIBT 1 EXTRA PUNKT.</string>
+
+    <string name="tutorial_type_corner_shot">SCHNIPSE GEGEN DIE ECKE,</string>
+    <string name="tutorial_type_corner_shot_d">UM DAVON WEG ZU KOMMEN.</string>
+    <string name="tutorial_type_corner_shot_a">SAUBER.\nJETZT ERZIELE EINEN HIGHSCORE.</string>
+
+
+    <string name="intro_type_charging">LADE DIE SHNIPS AUF, UM IHRE FÄHIGKEIT ZU AKTIVIEREN.</string>
+    <string name="intro_type_swap">BERÜHRE EINEN SHNIP, UM IHN MIT DEM BLANKEN ZU TAUSCHEN.</string>
+
+
+    <string name="notification_type_goals_left">Beende %_ Ziele, um %_ frei zu schalten</string>
+    <string name="notification_type_goal">Beende 1 Ziel, um %_ frei zu schalten</string>
+    <string name="notification_type_highscore">Knacke deinen %_ Punkte Highscore</string>
+
+
+    <string name="score">PUNKTESTAND</string>
+    <string name="highscore">HIGHSCORE</string>
+    <string name="new_highscore">NEUER HIGHSCORE</string>
+    <string name="goals_progress">%_/%_ ZIELE</string>
+    <string name="progress">%_/%_</string>
+    <string name="goals">ZIELE</string>
+    <string name="supercharger">SUPERCHARGER</string>
+    <string name="three_lives">3 LEBEN</string>
+
+    <string name="upgraded">%_ AUFGERÜSTET</string>
+    <string name="unlocked">%_ FREIGESPIELT</string>
+    <string name="goals_unlocked">ZIELE FREIGESCHALTET</string>
+    <string name="goal_completed">ZIEL ERREICHT</string>
+
+    <string name="twitter">FOLGE SHNIPS AUF TWITTER</string>
+
+    <string name="enjoying_shnips">GEFÄLLT DIR SHNIPS?</string>
+    <string name="rate_us">BEWERTE UNS</string>
+    <string name="ok">OK</string>
+    <string name="restore_purchases">KÄUFE WIEDERHERSTELLEN</string>
+    <string name="get">LADEN</string>
+
+    <string name="leaderboard_all_time_info">BESTENLISTEN-RANG</string>
+    <string name="leaderboard_week_info">WOCHE</string>
+    <string name="leaderboard_today_info">HEUTE</string>
+    <string name="achievements_info">ERFOLGE</string>
+
+    <string name="heart_info">ERHALTE 3 LEBEN PRO SPIEL</string>
+    <string name="supercharger_info">LADE DIE SHNIPS EINMAL PRO SPIEL VOLL AUF</string>
+    <string name="blank_chip_info">NICHT DEN BLANKEN SHNIP SCHNIPSEN</string>
+    <string name="charging_info">PUNKTE, UM DIE LEISTE AUF ZU LADEN</string>
+    <string name="leaderboard_info">MELDE DICH AN, UM DIE BESTENLISTE ZU SEHEN</string>
+    <string name="goals_info">BEENDE EIN PAAR ZIELE</string>
+
+    <string name="share_score">Ich habe %_ Punkte mit %_ in Shnips erzielt!https://play.google.com/store/apps/details?id=ch.techos.shnips2</string>
+    <string name="share_highscore">Versuche, meinen %_ Punkte Highscore in Shnips zu knacken!https://play.google.com/store/apps/details?id=ch.techos.shnips2</string>
+
+    <string name="purchase_unavailable">Artikel nicht verfügbar</string>
+    <string name="purchase_unavailable_d">Versuche es später noch einmal</string>
+    <string name="purchase_cancelled">Kauf abgebrochen</string>
+    <string name="cannot_connect">Verbindung mit Google Play Store nicht möglich</string>
+
+    <string name="quit_app_alert">Tschüss...</string>
+    <string name="quit_app_alert_d">Willst du Shnips wirklich verlassen?</string>
+    <string name="quit_app_alert_yes">Jap</string>
+    <string name="quit_app_alert_no">Nee</string>
+</resources>

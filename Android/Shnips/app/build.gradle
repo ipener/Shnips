@@ -1,0 +1,65 @@
+apply plugin: 'com.android.model.application'
+
+model {
+    android {
+        compileSdkVersion = 26
+        buildToolsVersion = "26.1.0"
+
+        defaultConfig.with {
+            applicationId = "ch.techos.shnips2"
+        }
+    }
+
+    android.buildTypes {
+        release {
+            minifyEnabled = true
+            proguardFiles.add(file('proguard-rules.pro'))
+        }
+    }
+
+    android.ndk {
+        moduleName = "shnips-core-jni"
+        stl = "c++_shared"
+        cppFlags.add("-std=gnu++11")
+        cppFlags.add("-fexceptions")
+        cppFlags.add("-frtti")
+        CFlags.addAll(["-DAL_ALEXT_PROTOTYPES"])
+        CFlags.addAll(["-DANDROID",
+                       "-fpic",
+                       "-ffunction-sections",
+                       "-funwind-tables",
+                       "-fstack-protector",
+                       "-fno-short-enums",
+                       "-DHAVE_GCC_VISIBILITY"])
+        ldFlags.addAll(["-Bsymbolic", "-shared"])
+        ldLibs.addAll(["android", "log", "GLESv3", "jnigraphics"])
+    }
+
+    android.sources {
+        main {
+            jni {
+                source {
+                    srcDirs = ["src/main/jni", "src/main/jni/Alc", "src/main/jni/OpenAL32", "../../../core", "../../../core/shared"]
+                }
+                exportedHeaders {
+                    srcDirs = ["src/main/jni", "src/main/jni/OpenAL32/Include", "../../../core", "../../../core/shared", "src/main/jni/"]
+                }
+            }
+            assets {
+                source {
+                    srcDirs = ["../../../core/resources"]
+                }
+            }
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support:design:26.1.0'
+    compile 'com.android.support:support-v4:26.1.0'
+    compile 'com.android.support:support-v13:26.1.0'
+    compile 'com.google.android.gms:play-services-games:10.2.1'
+    compile 'org.apache.directory.studio:org.apache.commons.io:2.4'
+}
